@@ -24,6 +24,7 @@ body {
     border-radius: 20px;
     align-items: center;
     overflow: hidden;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.103);
 }
 
 .container .imagen {
@@ -33,21 +34,19 @@ body {
     border-radius: 10px;
 }
 
-.container .texto {
-    margin-bottom: 20px;
-}
-
-.container h2 {
-    margin: 10px;
+.container .texto h1 {
+    margin: 20px 15px;
     font-weight: 700;
     font-size: 22px;
     text-align: center;
     color: #1F314F;
 }
 
-.container p {
+.container .texto p {
+    margin: auto 30px;
     font-weight: 400;
     text-align: center;
     font-size: 15px;
     color: #7D889E;
+    flex-wrap: wrap;
 }
