@@ -1,4 +1,7 @@
-# Frontend Mentor - QR code component
+> [!TIP]
+> Mira el resultado de este desafío <a href="https://sakhurama.github.io/Qrencss/">CLIC AQUÍ</a>
+
+## Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
